@@ -1,0 +1,42 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\bvp_04v5.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\bvp_04v5.dsn")
+      (Path "Design Resources" ".\bvp_04v5.dsn" "TOP LEVEL")
+      (Path "Design Resources" ".\bvp_04v5.dsn" "01 - OUTPUT")
+      (Path "Design Resources" ".\bvp_04v5.dsn" "02 - INPUT")
+      (Path "Design Resources" ".\bvp_04v5.dsn" "03 - AMPLIFIER")
+      (Path "Design Resources" ".\bvp_04v5.dsn" "04 - MCU")
+      (Path "Design Resources" ".\bvp_04v5.dsn" "05 - INTERFACE")
+      (Select "Design Resources" ".\bvp_04v5.dsn" "TOP LEVEL" "TOP LEVEL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 893"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -28 66 1507 81 580")
+        (Scroll "-213 42")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\PROJECT\CIRCUIT\BVP\04V5\BVP_04V5.DSN")
+      (Schematic "TOP LEVEL")
+      (Page "TOP LEVEL"))))
